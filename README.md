@@ -2,12 +2,11 @@
 
 ## A General Knowledge Quiz Application  
 
-This application will present the user with 15 questions
+This application will present the user with 7 questions
 where each question will have 4 options to choose from. 
 Only one option out of these 4 options is correct and only choosing
 this correct option will provide full credit to the user for that
-question. At the end of the quiz, the total score of the user will be displayed 
-on the screen.
+question.  
 
 The questions in this application will be based on general knowledge and will 
 include the following topics:
